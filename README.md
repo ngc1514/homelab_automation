@@ -1,2 +1,2 @@
 # homelab_automation
-Script collector for my home lab automation
+Script collection for my home lab automation
